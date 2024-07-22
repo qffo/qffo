@@ -15,6 +15,8 @@
 - Нахожусь в поиске стажировки или работы. (Любой формат: гибридный/удаленный/офис)
 - Проживаю в Россия, Калужская обл. г. Малоярославец
 
+  [Проект: анализ данных и создание графика"](https://github.com/qffo/rpn-seo-k)
+
 ## My skill set
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
 ![Pytest](https://img.shields.io/badge/-pytest-blue?style=for-the-badge&logo=pytest&logoColor=white)
