@@ -10,7 +10,6 @@
   - На текущий момент выполнил два проекта.
   - ✔ [Проект: Игры разума](https://github.com/qffo/python-project-49)
   - ✔ [Проект: Вычислитель отличий](https://github.com/qffo/python-project-50)
-  - <a href="https://github.com/qffo/python-project-83" style="text-decoration: none;">Проект: Анализатор страниц</a>
   - В процессе [Проект: Анализатор страниц](https://github.com/qffo/python-project-83)
   - Проект: Менеджер задач
 - Нахожусь в поиске стажировки или работы. (Любой формат: гибридный/удаленный/офис)
