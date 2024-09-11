@@ -9,6 +9,7 @@
   - Прохожу обучение в школе программирования [Хекслет](https://ru.hexlet.io)
   - На текущий момент выполнил два проекта.
   - ✔ [Проект: Игры разума](https://github.com/qffo/python-project-49)
+  - <h2><a target="_blank" href="https://python-project-83-7rqr.onrender.com/">Посмотреть результат можно по ссылке, тут, клац</a></h2>
   - ✔ [Проект: Вычислитель отличий](https://github.com/qffo/python-project-50)
   - В процессе [Проект: Анализатор страниц](https://github.com/qffo/python-project-83)
   - Проект: Менеджер задач
