@@ -24,6 +24,6 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-3776AB?style=for-the-badge&logo=python&logoColor=black) 
+![Flask](https://img.shields.io/badge/Flask-3776AB?style=for-the-badge&logo=flask&logoColor=black) 
 
 ![Codewars Badge](https://www.codewars.com/users/Viktor75/badges/micro)
