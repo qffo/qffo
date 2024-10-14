@@ -6,7 +6,7 @@ My name is Viktor. I am a Backend Developer
 - Engineer for Automation of technological processes and productions.
   - Moscow Polytechnic University, Moscow.
 - Python developer
-  - I am studying at the [Hexlet] programming school (https://ru.hexlet.io )
+  - I am studying at the [Hexlet](https://ru.hexlet.io ) programming school
 - My projects
   - [Игры разума](https://github.com/qffo/python-project-49) - набор из пяти консольных игр. 
   - [Вычислитель отличий](https://github.com/qffo/python-project-50) - программа определяет разницу между двумя структурами данных
