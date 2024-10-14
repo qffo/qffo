@@ -15,7 +15,7 @@
 - Проживаю в Россия, Калужская обл. г. Малоярославец
 
 ## Другие мои проекты
-  [Клещевые болезни в Калужской области](https://github.com/qffo/rpn-seo-k) -анализ данных и создание графика Django	+ Matplotlib
+  [Клещевые болезни в Калужской области](https://github.com/qffo/rpn-seo-k) - анализ данных и создание графика Django	+ Matplotlib
 
 ## My skill set
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
