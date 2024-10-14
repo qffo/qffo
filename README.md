@@ -1,5 +1,4 @@
-### About me :
-👋 Hi.
+### 👋 Hi.
 
 My name is Viktor. I am a Backend Developer
 ## Education
