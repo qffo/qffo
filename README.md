@@ -1,6 +1,6 @@
 ### 👋 Hi.
 
-### My name is Viktor. I Backend Developer
+### My name is Viktor. I am a Backend Developer
 
 ## Education
 - Engineer for Automation of technological processes and productions.
