@@ -8,9 +8,9 @@
 - Python developer
   - I am studying at the [Hexlet](https://ru.hexlet.io ) programming school
 - My projects
-  - [Игры разума](https://github.com/qffo/python-project-49) - набор из пяти консольных игр. 
-  - [Вычислитель отличий](https://github.com/qffo/python-project-50) - программа определяет разницу между двумя структурами данных
-  - [Анализатор страниц](https://github.com/qffo/python-project-83) - веб-приложение проверяет сайт на SEO пригодность (Flask)
+  - [Brain Games](https://github.com/qffo/python-project-49) - Set of five console arithmetic games. 
+  - [Gendiff](https://github.com/qffo/python-project-50) - Program determines the difference between two data structures A program that accepts the path to two files and outputs the differences between them
+  - [Page Analyzer](https://github.com/qffo/python-project-83) - Web application checks the site for SEO suitability (Flask)
 - Нахожусь в поиске стажировки или работы. (Любой формат: гибридный/удаленный/офис)
 - Проживаю в Россия, Калужская обл. г. Малоярославец
 
