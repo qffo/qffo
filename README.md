@@ -14,8 +14,8 @@
 - Нахожусь в поиске стажировки или работы. (Любой формат: гибридный/удаленный/офис)
 - Проживаю в Россия, Калужская обл. г. Малоярославец
 
-## Другие мои проекты
-  [Клещевые болезни в Калужской области](https://github.com/qffo/rpn-seo-k) - анализ данных и создание графика Django	+ Matplotlib
+## My other projects
+  [Tick-borne diseases in the Kaluga region](https://github.com/qffo/rpn-seo-k) - анализ данных и создание графика Django	+ Matplotlib
 
 ## My skill set
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
