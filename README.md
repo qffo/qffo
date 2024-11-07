@@ -11,6 +11,7 @@
   - [Brain Games](https://github.com/qffo/python-project-49) - Set of five console arithmetic games. 
   - [Gendiff](https://github.com/qffo/python-project-50) - Program determines the difference between two data structures
   - [Page Analyzer](https://github.com/qffo/python-project-83) - Web application checks the site for SEO suitability (Flask)
+  - In Procces [Task Manager](https://github.com/qffo/python-project-52)
 - Нахожусь в поиске стажировки или работы. (Любой формат: гибридный/удаленный/офис)
 - Проживаю в Россия, Калужская обл. г. Малоярославец
 
