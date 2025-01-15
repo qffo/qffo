@@ -27,4 +27,4 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Pytest](https://img.shields.io/badge/-pytest-blue?style=for-the-badge&logo=pytest&logoColor=white)
 
-![Codewars Badge](https://www.codewars.com/users/Viktor75/badges/micro)
+![Codewars Badge](https://www.codewars.com/users/Viktor75/badges/large)
