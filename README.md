@@ -1,30 +1,32 @@
-### 👋 Hi.
+### 👋 Hi, I'm Viktor.
 
-### My name is Viktor. I am a Backend Developer
+I am a Backend Developer with experience in Python, Flask, PostgreSQL, and more.
+
+## About Me
+- Backend Developer with a strong foundation in Python and experience building web applications.
+- Actively looking for an internship or a full-time position (hybrid, remote, or office work).
 
 ## Education
-- Engineer for Automation of technological processes and productions.
-  - Moscow Polytechnic University, Moscow.
-- Python developer
-  - I am studying at the [Hexlet](https://ru.hexlet.io ) programming school
-- My projects
-  - [Brain Games](https://github.com/qffo/python-project-49) - Set of five console arithmetic games. 
-  - [Gendiff](https://github.com/qffo/python-project-50) - Program determines the difference between two data structures
-  - [Page Analyzer](https://github.com/qffo/python-project-83) - Web application checks the site for SEO suitability (Flask)
-  - [Task Manager](https://github.com/qffo/python-project-52) - Web application. It allows you to set tasks, assign performers and change their statuses.
-- Нахожусь в поиске стажировки или работы. (Любой формат: гибридный/удаленный/офис)
-- Проживаю в Россия, Калужская обл. г. Малоярославец
+- **Engineer for Automation of Technological Processes**  
+  Moscow Polytechnic University, Moscow
+- **Python Developer**  
+  Hexlet https://ru.hexlet.io
 
-## My other projects
-  [Tick-borne diseases in the Kaluga region](https://github.com/qffo/rpn-seo-k) - анализ данных и создание графика Django	+ Matplotlib
+## My Projects
+- [Brain Games](https://github.com/qffo/python-project-49) - A set of five console arithmetic games built with Python.
+- [Gendiff](https://github.com/qffo/python-project-50) - A program that compares two data structures and highlights differences.
+- [Page Analyzer](https://github.com/qffo/python-project-83) - Web application built with Flask to analyze websites for SEO suitability.
+- [Task Manager](https://github.com/qffo/python-project-52) - Web app to manage tasks, assign performers, and track status changes.
+- [Tick-borne Diseases in the Kaluga Region](https://github.com/qffo/rpn-seo-k) - Data analysis and graph creation using Django + Matplotlib.
 
-## My skill set
+## My Skill Set
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![postgresql](https://img.shields.io/badge/postgresql-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-1b6d74?style=for-the-badge&logo=flask&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Pytest](https://img.shields.io/badge/-pytest-blue?style=for-the-badge&logo=pytest&logoColor=white)
 
-![Codewars Badge](https://www.codewars.com/users/Viktor75/badges/large)
+## Let's Connect
+- [GitHub](https://github.com/qffo)
