@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm Viktor.
 
-I am a Backend Developer with experience in Python, Flask, PostgreSQL, and more.
+I am a Backend Developer with experience in Python, Django, Flask, PostgreSQL, and more.
 
 ## About Me
 - Backend Developer with a strong foundation in Python and experience building web applications.
